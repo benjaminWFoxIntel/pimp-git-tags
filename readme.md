@@ -1,15 +1,14 @@
 # Pimp my tags
 * nodeJs tool developped by winckell benjamin
 ![preview tool](/screens/pic1.png)
+
 Table of Contents
 =================
-
-   * [Pimp my tags](#pimp-my-tags)
-      * [Requirements](#requirements)
-      * [Tree](#tree)
-      * [Introduction](#introduction)
-      * [Installation](#installation)
-      * [Usage](#usage)
+  * [Requirements](#requirements)
+  * [Tree](#tree)
+  * [Introduction](#introduction)
+  * [Installation](#installation)
+  * [Usage](#usage)
 
 ## Requirements 
  - NODEJS VERSION >=8.6 
